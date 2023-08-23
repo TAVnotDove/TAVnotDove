@@ -2,6 +2,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TAVnotDove&mode=weekly)](https://git.io/streak-stats)
 
+- 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/slavey-dikovski/)
+
 <!--
 **TAVnotDove/TAVnotDove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
