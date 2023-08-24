@@ -5,6 +5,19 @@
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/slavey-dikovski/)
 
+- 👨‍💻
+
+Languages:
+
+HTML, CSS, JavaScript, TypeScript
+
+Frontend:
+
+React, Angular
+
+Backend:
+
+NodeJS, Express, MongoDB
 <!--
 **TAVnotDove/TAVnotDove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
