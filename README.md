@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TAVnotDove&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TAVnotDove&theme=dark&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
 
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/slavey-dikovski/)
