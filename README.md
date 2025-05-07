@@ -2,20 +2,20 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TAVnotDove&theme=dark&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
 
-- 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/slavey-dikovski/)
+- 📫 **How to reach me:**
 
-- 👨‍💻
+Message me on [LinkedIn](https://www.linkedin.com/in/slavey-dikovski/)
+or send me an [Email](mailto:dikovski.slavey@gmail.com)
 
-Languages:
+- 👨‍💻 **Languages:**
 
 HTML, CSS, JavaScript, TypeScript
 
-Frontend:
+- **Frontend:**
 
-React, Angular
+React, Angular, Vue
 
-Backend:
+- **Backend:**
 
 NodeJS, Express, MongoDB
 <!--
